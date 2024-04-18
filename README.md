@@ -8,8 +8,6 @@ Welcome to the repository for our Healthcare System using Machine Learning Techn
 
 - **Disease Prediction**: Utilizes XGBoost and Python ML libraries to predict prevalent diseases, addressing health challenges in the Indian population.
 
-- **Healthcare Chatbot**: Integrates NLP and OpenAI API techniques for interactive and personalized health recommendations.
-
 - **Dockerized**: The system is containerized for easy deployment and management.
 
 - **Cloud Deployment**: Utilizes Google Cloud Run for scalable and available healthcare services.
